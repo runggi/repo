@@ -20,7 +20,7 @@ public class Hello {
 			
 		}
 		int max=0;
-		
+		// max값 구하고 i번째 순서값 구하기
 		int a=0;
 		int cnt=0;
 		for(int val: arr) {
